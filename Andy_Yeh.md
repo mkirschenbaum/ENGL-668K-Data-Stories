@@ -12,8 +12,7 @@ and still be okay with @PPact
 
 They kill babies.
 
-#tcot #ccot #PJNET]
-(https://twitter.com/MrsCaliBlonde/statuses/672672960201682944)
+#tcot #ccot #PJNET](https://twitter.com/MrsCaliBlonde/statuses/672672960201682944)
 
 At first I was puzzled as to why so much of the conversation seemed to have so little to do with the recent shootings. After looking more closely at some of the tweets, however, the topics of debate started to make sense. First, our tweets were retrieved the day after the [Senate passed a bill defunding Planned Parenthood](http://www.npr.org/2015/12/03/458304236/senate-expected-to-pass-bill-to-defund-planned-parenthood-repeal-health-law). This, naturally, shifted some of the conversation away from the shooting, which had happened a week ago at that point. A second factor that explained our results was the [#Solidarity](https://istandwithpp.org/solidarity) movement happening the following day (the 5th) around the country. As the @PPAct account focuses on activism, it is not surprising that much of the conversations going on that involved PPAct were promoting solidary events and vigils. However, as the latter explanation suggests, a lack of explicit citations of the shooting in Colorado Springs does not signify the absence of engagement with the incident.
 
