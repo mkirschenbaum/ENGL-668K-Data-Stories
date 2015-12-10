@@ -2,7 +2,7 @@ The recent shooting at the Planned Parenthood in Colorado Springs led Cara and I
 
 Looking through the discussions, the most forceful conversations were simply reproducing conventional arguments around abortion: the ethics of terminating a pregnancy, the nature of the services Planned Parenthood offers--e.g. cancer screenings and other forms of health care, and the rights of women to have control oover their own bodies. We were surprised at how few of the Tweets referenced the recent shootings. I tried to search for tweets that might be in some way responding to the shooting in Colorado Springs, but I had little success. Only 20 of the nearly 3,000 tweets we collected used the hashtag #IStandWithPP. While there were 26 that used the word "guns" in the text of the tweet, a fair number of them were actually pro-gun and anti-abortion. One example comes from a prolific conservative user--a self-proclaimed "Top Conservative" as well as "Christian Conservative" of Twitter (#tcot and #ccot, respectively), [@MrsCaliBlonde](https://twitter.com/MrsCaliBlonde): 
 
-[You cannot be a vegetarian..
+You cannot be a vegetarian..
 
 Against animal cruelty..
 
@@ -12,7 +12,9 @@ and still be okay with @PPact
 
 They kill babies.
 
-#tcot #ccot #PJNET](https://twitter.com/MrsCaliBlonde/statuses/672672960201682944)
+#tcot #ccot #PJNET
+
+[Link to tweet](https://twitter.com/MrsCaliBlonde/statuses/672672960201682944)
 
 At first I was puzzled as to why so much of the conversation seemed to have so little to do with the recent shootings. After looking more closely at some of the tweets, however, the topics of debate started to make sense. First, our tweets were retrieved the day after the [Senate passed a bill defunding Planned Parenthood](http://www.npr.org/2015/12/03/458304236/senate-expected-to-pass-bill-to-defund-planned-parenthood-repeal-health-law). This, naturally, shifted some of the conversation away from the shooting, which had happened a week ago at that point. A second factor that explained our results was the [#Solidarity](https://istandwithpp.org/solidarity) movement happening the following day (the 5th) around the country. As the @PPAct account focuses on activism, it is not surprising that much of the conversations going on that involved PPAct were promoting solidary events and vigils. However, as the latter explanation suggests, a lack of explicit citations of the shooting in Colorado Springs does not signify the absence of engagement with the incident.
 
