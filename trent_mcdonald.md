@@ -1,3 +1,6 @@
+MATT: Trent, this seems like a good overview writeup, though I was hoping for a little more discussion of the actual dataset and the sorts of analysis you performed. Request sent for access to the TAGS sheets. Thanks.
+
+
   Salman Rushdie and Twitter
   
   Despite initially scorning Jonathan Franzen’s loud and negative views on Twitter, Salman Rushdie also agrees with them. Until he changes his mind, no longer endorsing Franzenian Twitter Ire, and he returns to Twitter in order to publicize his new novel,Two Years Eight Months and Twenty-Eight Nights, his first fictional work in seven years. The title—adding up to one thousand and one nights—has received mostly positive reviews. Some of these reviews are tweeted @Salman Rushdie, which the author then retweets either graciously with his thanks or cockily without any added commentary. But while tweets around other authors may skew towards a new publication, Rushdie cannot escape the shadow of Midnight’s Children and especially The Satanic Verses.
