@@ -1,3 +1,5 @@
+MATT: Rick, this is an excellent exploraiton of the data around this one particular event, uncovering a number of different facets of what happened and how the news was disseminated on Twitter. I'm impressed by how quickly you're able to fill out the "story" in between the data points, and humanize/personalize what you've found, even when what it reveals is, as you note, abohorent. You also seem to make good use of TAGS (admittedly) limited capabilities, such as the Explore function. Well done.
+
 Engl 668k Data Adventure
 
 The data adventure began before it even started. 
