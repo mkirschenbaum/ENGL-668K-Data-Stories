@@ -1,3 +1,6 @@
+MATT: Michael, interesting attempt to draw some conclusions about some very particular individual habits as ascertained by metadata in the tweets (device, timestamp, etc.) though you also (rightly) acknowledge the limitaitons of this approach. I may be overlooking it, but is there a link available to your TAGS data?
+
+
 ###ENGL668K
 ###Module 3 Exercise Data Story
 ####Michael Kurzmeier
