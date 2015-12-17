@@ -1,3 +1,6 @@
+MATT: Kyle, this shows excellent instincts for this kind of data colleciton and analysis, and its a powerful (though sadly not surprising) demonstration of how quickly the rhetoric associated with events like this can change--and escalate. I'm struck by the extent to which details like the misspellings ("moslim") are indicative of larger social divisions and disconnects, and it occurs to me too that this is precisely the kind of detail that probably wouldn't be noticeable through a more conventional reading of the tweets. Kudos too on collecting the additional data sets, which I look forward to taking a look at (requests for access sent).
+
+
 Bickoff, Kyle
 Dec 9, 2015
 Final Project
