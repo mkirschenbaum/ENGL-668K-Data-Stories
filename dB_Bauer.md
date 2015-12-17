@@ -1,3 +1,6 @@
+MATT: DB, this is a good, balanced discussion of the possibiltiies and very real limitaitons of tools for data anylsis. It reminds me of what researcher sometimes call "the Russia problem": you take the text of War and Peace, feed it through all sorts of analysis and algorithms, and the results tell you it's a novel about Russia. Not wrong, exactly, but not something you needed all that horsepower to tell you. And not the whole story either. In any case, I'm glad this modest experiment has whetted your appetite for more.
+
+
 #### Twitter Yelling and Emotional Robots
 
 
