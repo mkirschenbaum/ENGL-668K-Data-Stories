@@ -1,3 +1,5 @@
+MATT: Arielle, this is an excellent overview and discussion of the challenges involved in analyzing what is, as you say, a very complex data set. You make good use of TAGS/Sheets in order to organize the data, and are appropriately measured and conservative in terms of the conclusions you draw from it. As I said to Jacques, I suspect this is an instance where the most promising insights would only become possible after the collection of a much larger data set. This is nicely done with what you had to work with.
+
 
 For this TAGS project, Jacques and I decided to look that the data rendered from entering #ShoutYourAbortion. This was a hashtag that began trending in September 2015 from two primary users, Amelia Bonow and Lindy West. The hashtag was initially started as a way of sharing experiences of women’s abortions, largely as a way of rationalizing or prioritizing other factors in women’s lives, such as education and fiscal stability. In sum, the hashtag was started as a way of attempting to dismantle much of the vitriolic rhetoric that surrounds not only abortion, but also women’s bodies on the twittersphere. 
 
