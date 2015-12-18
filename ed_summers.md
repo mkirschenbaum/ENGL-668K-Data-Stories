@@ -1,6 +1,9 @@
-*Ed Summers' response to the submitted data stories...*
+*Below is Ed Summers' response to the submitted data stories...*
 
-I really enjoyed reading the data stories that everyone was able to put together. One phrase that will stick with me for a while is Jen's "hashtag salad" as a term for tweets that are mostly made up of a coordination of hashtags.
+I really enjoyed reading the data stories that everyone was able to put
+together. One phrase that will stick with me for a while is Jen's *hashtag
+salad* as a term (or neologism really) for tweets that are mostly made up 
+of a coordination of hashtags. I'm going to use it from now on!
 
 I was surprised to find that the stories that established a strong personal voice were particulary effective in drawing out a narrative in the data. Perhaps I shouldn've have been, but I was :) I guess it makes sense that a narrative about data would need to have a narrator, and that the narrator needs a voice. So it stands to reason that attention to this voice is important for communicating the perspective that the data story is taking. I think this is one reason (among many) that humanists are needed in the STEM dominated field of data science. Voice and perspective matter.
 
