@@ -7,7 +7,13 @@ of a coordination of hashtags. I'm going to use it from now on!
 
 I was surprised to find that the stories that established a strong personal voice were particulary effective in drawing out a narrative in the data. Perhaps I shouldn've have been, but I was :) I guess it makes sense that a narrative about data would need to have a narrator, and that the narrator needs a voice. So it stands to reason that attention to this voice is important for communicating the perspective that the data story is taking. I think this is one reason (among many) that humanists are needed in the STEM dominated field of data science. Voice and perspective matter.
 
-Another important aspect to the stories that worked well was an attention to the data. For example Michael's analysis of the device used (mobile vs desktop) and time of day was quite interesting. The treatment is suggestive of the way the data is intertwined with events in the physical world, and the degree to which social media can and cannot mediate those events. Filipa's analysis of the use of language (English, Spanish and Portuguese) by a particular individual in different contexts was another example of this type of analysis.
+Another important aspect to the stories that worked well was an attention to the
+data. For example Michael's analysis of the device used (mobile vs desktop) and
+time of day was quite interesting. The treatment is suggestive of the way the
+data is intertwined with events in the physical world, and the degree to which
+social media can and cannot mediate those events. Filipa's analysis of the use
+of language (English, Spanish and Portuguese) by a particular individual in
+different contexts was another example of this type of treatment.
 
 But there were many interesting things that were discussed, so it's probably not fair for me to start highlighting them. 
 
