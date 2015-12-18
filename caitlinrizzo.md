@@ -1,3 +1,6 @@
+MATT: Really nice write-up, Caitlin; I like your framing throughout as "curation," for that is surely what this process is. You also seem to have made good use of TAGS/Sheets features like the Pivot tables. Well done.
+
+
 #Feminist for a Day: Reading the Feminism in Popular Culture 
 
 TAGS Spreadsheet URL: https://docs.google.com/spreadsheets/d/1cpSB5p_bnBL0DEmL2wfRmWbOk1JEP9ejmyX7smD9E7k/edit?usp=sharing
