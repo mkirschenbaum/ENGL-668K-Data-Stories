@@ -31,7 +31,7 @@ be on your data set, not responding to the readings.
 
 3. Finally--and critically--please add the URL for your TAGS spreadsheet 
 to your data story. If you have trouble doing this feel free to share 
-your spreadsheet with Ed or me at these addresses: ehs@pobox.com, 
+your spreadsheet with Ed *and* Matt at these addresses: ehs@pobox.com, 
 mkirschenbaum@gmail.com. Writing your data story here (each of you) and 
 sharing the sheet via Google completes the Exercise.
 
