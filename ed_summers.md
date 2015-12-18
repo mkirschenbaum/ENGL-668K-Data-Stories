@@ -15,9 +15,10 @@ social media can and cannot mediate those events. Filipa's analysis of the use
 of language (English, Spanish and Portuguese) by a particular individual in
 different contexts was another example of this type of treatment.
 
-But there were many interesting things that were discussed, so it's probably not fair for me to start highlighting them. 
-
-There were several comments about the limitations of collecting data from Twitter using TAGS. For example:
+But there were *many* interesting things that were discussed, so it's probably
+not fair for me to start highlighting them. The stories contained several 
+comments about the limitations of collecting data from Twitter using TAGS.
+For example:
 
 Andy:
 
