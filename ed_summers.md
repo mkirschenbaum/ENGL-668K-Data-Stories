@@ -61,7 +61,8 @@ The comments also point to another limitation of TAGS as a tool. The spreadsheet
 
 In the new year MITH is going to be working on a new tool and service that will help researchers collect Twitter data, and linked Web pages. It's a two year grant supported effort involving two other universities, which hasn't been formally
 announced yet, shhhh. If you are interested in helping test it or otherwise get
-involved please let Matt or Ed know.
+involved please let Matt know. Thanks for letting me participate in the class
+this fall, I had a lot of fun, and learned a great deal as well.
 
 [limits]: https://support.google.com/drive/answer/37603?hl=en
 [web search]: https://twitter.com/search-advanced
