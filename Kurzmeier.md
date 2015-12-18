@@ -65,3 +65,6 @@ written by a third party. This could additionally falsify any claimed connection
 data and Ronaldo`s usage preferences. This exercise and the gained data and experience
 will also be used in the final essay to discuss problems of archiving and visualizing data
 gained from a network.
+
+TAGS Sheet: 
+https://docs.google.com/spreadsheets/d/1tblGNZblIZVPckCgTzWufgxdXT-WEnp7pqahkpE7kkA/edit?usp=sharing
