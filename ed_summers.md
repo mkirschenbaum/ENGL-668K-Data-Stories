@@ -42,7 +42,12 @@ DB:
 
 >  Not only is the process capped by a maximum number of tweets archived at a specific moment, it is also difficult to explore a topic outside of the “now” because of its relegation to the last seven days, rather than allowing for a specified date range. Additionally, the more tweets I attempted to archive at one time, the greater likelihood the script would fail and yield zero results.
 
-I thought I remembered mentioning that the search API was limited to the last 7-9 days, but even if I did I clearly didn't emphasize it enough. The search API *does* restrict access mostly for business reasons since Twitter have a service called [Gnip](http://gnip.com) which allows people to purchase access to historical data in bulk. So, if you are interested in a topic, and don't want to pay Twitter thousands of dollars for data, it is imperative to collect continuously over a period of time.
+I thought I remembered mentioning that the search API was limited to the last
+7-9 days, but even if I did I clearly didn't emphasize it enough. The search API
+*does* restrict access mostly for business reasons since Twitter have a service
+called [Gnip](http://gnip.com) which allows people to purchase access to
+historical data in bulk. So, if you are interested in a topic, and don't want to
+pay Twitter thousands of dollars for data, it is important to collect continuously over a period of time.
 
 TAGS tries to do this for you by allowing you to schedule your search to be rerun, but there are [limits] to the size of a Google Sheet: 2,000,000 cells, or 111,111 TAGS rows. It also isn't clear to me how TAGS deals with duplicate data, or how it ensures that it doesn't have gaps in time. At any rate these observations about the limits of TAGS and the underlying Twitter API are great examples of getting insight into Twitter as a platform, in [Tarleton Gillespie]'s use of the term. If this sort of thing is of interest there is an emerging literature that looks at Twitter's as a platform, including these two recent papers that are focused on the APIs specifically:
 
