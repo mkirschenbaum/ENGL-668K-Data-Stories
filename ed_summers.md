@@ -59,9 +59,7 @@ Just as an aside Twitter's [web search] isn't limited to the last 7-9 days like 
 
 The comments also point to another limitation of TAGS as a tool. The spreadsheet has the text of the tweet, but it is extremely data centric. To see embedded media, the users profile information, the responses and the full presentation of the tweet it is necessary to visit the twett on the Web using the URL located in the `status_url` column. This can prove to be quite a barrier, when you are attempting to decode the intent or intended meaning of a message by simply browsing the spreadsheet. The additional context found in the human readable presentation of the Web page makes it much easier to get at the intent or meaning of a tweet. But how do you do this sort of analysis with thousands of messages? This raises good questions about distant reading, which also are an area where a DH perspective has a lot to offer to the data science profession.
 
-In the new year MITH is going to be working on a new tool that will help
-researchers collect Twitter data, and linked Web pages. It's a two year grant
-supported effort involving two other universities, which hasn't been formally
+In the new year MITH is going to be working on a new tool and service that will help researchers collect Twitter data, and linked Web pages. It's a two year grant supported effort involving two other universities, which hasn't been formally
 announced yet, shhhh. If you are interested in helping test it or otherwise get
 involved please let Matt or Ed know.
 
